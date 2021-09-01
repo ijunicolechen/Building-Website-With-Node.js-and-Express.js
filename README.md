@@ -1,10 +1,10 @@
 # Building a website with Node.js and Express
 
-This repository contains the code for my course 'Building a Website with Node.js Node.js' on [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3).
+This repository contains the code for Daniel Khan course 'Building a Website with Node.js Node.js' on [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3).
 
 The master branch contains the initial version to get started with, while the branches contain the state of the code at the beginning (e.g. 02_02**b**) and end (e.g. 02_02**e**) of a video.
 
-## Setting up the project
+## Setting up the project from cloning Daniel Khan repository
 
 * In your terminal, create directory `building-website-nodejs-express` and **change into it**.
 * Run 
@@ -15,4 +15,3 @@ The master branch contains the initial version to get started with, while the br
   git branch
   ```
   
-Everything else will be discussed in my course.
