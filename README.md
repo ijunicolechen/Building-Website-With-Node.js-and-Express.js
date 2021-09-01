@@ -15,4 +15,3 @@ The master branch contains the initial version to get started with, while the br
   git branch
   ```
   
-Everything else will be discussed in my course.
